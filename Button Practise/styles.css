@@ -1,0 +1,97 @@
+.youtubeButton {
+    background-color: red;
+    color: white;
+    border-radius: 100px;
+    border: none;
+    height: 36px;
+    width: 105px;
+    cursor: pointer;
+}
+.youtubeButton:active {
+    opacity: 0.5;
+}
+.joinButton {
+    background-color: white;
+    font-weight: bold;
+    color: rgb(55, 123, 201);
+    border-radius: 20px;
+    border-color: rgb(55, 123, 201);;
+    border-style: solid;
+    height: 36px;
+    width: 105px;
+    cursor: pointer;
+
+    transition: background-color 0.15s, color 0.15s; 
+}
+.joinButton:hover {
+    color: white;
+    background-color: rgb(55, 123, 201);;
+}
+.joinButton:active {
+    opacity: 0.5;
+}
+.twitterButton {
+    color: white;
+    font-weight: bold;
+    background-color: #26a7de;
+    border-radius: 100px;
+    border: none;
+    height: 36px;
+    width: 105px;
+    cursor: pointer;
+}
+.twitterButton:active {
+    opacity: 0.5;
+}
+.amazonButton {
+    border-radius: 100px;
+    color: black;
+    font-weight: bold;
+    background-color: rgba(253, 241, 11, 0.97);
+    height: 36px;
+    width: 200px;
+    cursor: pointer;
+}
+.amazonButton:hover {
+    background-color: rgba(226, 215, 6, 0.938);
+}
+.amazonButton:active {
+    opacity: 0.5;
+}
+.downloadButton {
+    background-color: rgb(24, 69, 119);
+    color: white;
+    font-weight: bold;
+    height: 36px;
+    width: 150px;
+    cursor: pointer;
+    border: none;
+    border-radius: 100px;
+}
+.downloadButton:active {
+    opacity: 0.5;
+}
+.centerbutton {
+  text-align: center;
+  margin-top: 100px;
+}
+.style {
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.githubButton {
+    margin-top: 50px;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    font-weight: bold;
+    background: rgb(10, 202, 10);
+    height: 36px;
+    width: 150px;
+    cursor: pointer;
+}
+.githubButton:hover {
+    background-color: rgb(5, 147, 5);
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.19)
+}

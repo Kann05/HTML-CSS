@@ -1,0 +1,411 @@
+html, body {
+    max-width: 100%;
+    overflow-x: visible;
+    max-height: 200%;
+    overflow-y: visible;
+
+}
+body {
+	background-color: whitesmoke;
+}
+*{
+	margin:0;
+	padding:0;
+}
+nav {
+	width: 100%;
+	height: 99px;
+	background-color: black;
+	box-shadow: black;
+	box-shadow: 0px 5px 10px;
+}
+nav p {
+	font-family: arial;
+	color: #222;
+	font-size: 24px;
+	line-height: 55px;
+	float: left;
+	padding: 0px 20px;
+}
+nav ul {
+	float: left;
+}
+nav ul li {
+	float: left;
+	list-style: none;
+}
+nav ul li a {
+	display: block;
+	font-family: arial;
+	color: white;
+	font-size: 24px;
+	padding: 30px 22px;
+	text-decoration: none;
+}
+li {
+	margin-left: 10px;
+}
+ul li a:hover {
+	color: #EC0000;
+	transition-delay: 0.2s;
+	transition-property: none|all|property;
+	transition-duration: 0.2s;
+}
+img 
+{
+	float: left;
+	list-style: none;
+	height:100px;
+	width:150px;
+}
+.team 
+{
+	font-family: Arial;	
+	font-size: 50px;
+	margin: 50px 500px;
+	color: black;
+	font-weight: bold;
+	position: absolute;
+}
+p {
+	color: white;
+}
+.color {
+	color: #8C27FF;
+}
+.all{
+	margin: -50px 75px;
+}
+.background{
+	background-color: #242582;
+	margin: 51px 25px;
+  	padding: 0;
+  	height: 250%;
+  	width: 95%;
+  	background-position: center;
+  	background-size: cover;
+}
+.top {
+	padding: 200px 100px;
+}
+.gragas{
+	height: 100px;
+	width: 150px;
+}
+.name{
+	font-weight: bold;
+	color: 	#FFFFE0;
+	padding: 26px 20px;
+	position: absolute;
+}
+.topinfoname{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 26px 130px;
+	position: absolute;
+}
+.topinfocountry{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 23px 250px;
+	position: absolute;
+	
+}
+.topflag{
+	padding: 45px 320px;
+	height: 30px;
+	width: 35px;
+	position: absolute;
+}
+.topinforesidency{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 26px 450px;
+	position: absolute;
+}
+.topinfoteam{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 26px 545px;
+	position: absolute;
+}
+.topinforole{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 25px 670px;
+	position: absolute;
+}
+.topinfochamps{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 25px 730px;
+	position: absolute;
+}
+.topgnar{
+	padding: 20px 800px;		
+	position: absolute;
+	
+}
+.topornn{
+	padding: 20px 850px;	
+	position: absolute;
+	
+}
+.turk{
+	padding: 0px 100px;
+}
+.jgname{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	margin: 30px -70px;
+	position: absolute;
+}
+.jginfoname{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 30px 25px;
+	position: absolute;
+}
+.jginfocountry{
+	font-weight: bold;
+	color: 	#FFFFE0;
+	padding: 30px 150px;
+	position: absolute;
+}
+.jgflag{
+	padding: 55px 215px;
+	height: 30px;
+	width: 35px;
+	position: absolute;
+}
+.jginforesidency{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 30px 345px;
+	position: absolute;
+}
+.jginfoteam{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 30px 440px;
+	position: absolute;
+}
+.jginforole{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 30px 570px;
+	position: absolute;
+}
+.jginfochamps{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 30px 630px;
+	position: absolute;
+
+}
+.jgkha{
+	padding: 20px 700px;	
+	position: absolute;
+}
+.jgevelynn{
+	padding: 20px 750px;	
+	position: absolute;
+}
+.shreck{
+	margin: 200px -255px;
+}
+.midname{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	margin: 230px -70px;
+	position: absolute;
+}
+.midinfoname{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 230px 10px;
+	position: absolute;
+
+}
+.midinfocountry{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 230px 150px;
+	position: absolute;
+
+}
+.midflag{
+	padding: 250px 215px;
+	height: 30px;
+	width: 35px;
+	position: absolute;
+
+}
+.midinforesidency{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 230px 340px;
+	position: absolute;
+
+}
+.midinfoteam{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 230px 435px;
+	position: absolute;
+}
+.midinforole{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 230px 560px;
+	position: absolute;
+}
+.midinfochamps{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 230px 620px;
+	position: absolute;
+
+}
+.midtwisted{
+	padding: 220px 700px;	
+	position: absolute;
+
+}
+.midviktor{
+	padding: 220px 747px;	
+	position: absolute;
+
+}
+.adc{
+	margin: 380px -255px;
+}
+.adcname{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	margin: 400px -70px;
+	position: absolute;
+}
+.adcinfoname{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 400px 10px;
+	position: absolute;
+}
+.adcinfocountry{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 395px 150px;
+	position: absolute;
+
+}
+.adcflag{
+	padding: 415px 210px;
+	height: 30px;
+	width: 35px;
+	position: absolute;
+}
+.adcinforesidency{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 400px 340px;
+	position: absolute;
+}
+.adcinfoteam{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 400px 435px;
+	position: absolute;
+}
+.adcinforole{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 400px 560px;
+	position: absolute;
+}
+.adcinfochamps{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 400px 620px;
+	position: absolute;
+}
+.adcdraven{
+	padding: 395px 700px;	
+	position: absolute;
+}
+.adcjinx{
+	padding: 395px 747px;	
+	position: absolute;
+}
+.supp{
+	margin: 550px -255px;
+}
+.suppname{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	margin: 570px -70px;
+	position: absolute;
+}
+.suppinfoname{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 570px 10px;
+	position: absolute;
+}
+.suppinfocountry{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 560px 150px;
+	position: absolute;
+}
+.suppflag{
+	padding: 580px 210px;
+	height: 30px;
+	width: 35px;
+	position: absolute;
+}
+.suppinforesidency{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 570px 340px;
+	position: absolute;
+}
+.suppinfoteam{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 570px 435px;
+	position: absolute;
+}
+.suppinforole{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 570px 560px;
+	position: absolute;
+}
+.suppinfochamps{
+	font-weight: bold;
+	color: 	#D9DFFC;
+	padding: 570px 620px;
+	position: absolute;
+}
+.supplulu{
+	padding: 560px 700px;	
+	position: absolute;
+}
+.suppyuumi{
+	padding: 560px 750px;	
+	position: absolute;
+}
+.left{
+	height: 100%;
+	width: 10%;
+	margin: -400px -100px;
+	background-color: #0F142E;
+}
+.right{
+	float: right;
+	height: 100.1%;
+	width: 12%;
+	margin: -1657px -117px;
+	background-color: #0F142E;
+}
