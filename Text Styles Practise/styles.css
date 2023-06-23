@@ -1,0 +1,101 @@
+.coursetext {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.underlinetext {
+    margin-top: 0px;
+    color: gray;
+    font-size: 18px;
+}
+.maintext {
+    color: black;
+}
+.getstarted {
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(11, 110, 11);
+    color: white;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    box-shadow: 5px 5px 15px 0px black;
+}
+.businessshopping {
+    text-align: center;
+}
+.shoptext {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 15px;
+}
+.helptext {
+    margin-top: 0px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(10, 104, 227, 0.875);
+    font-weight: bold;
+}
+.apple {
+    text-align: center;
+    padding-top: 50px;
+}
+.new {
+    color: rgb(188, 45, 45);
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+.productname {
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.info {
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.price {
+    color: black;
+    margin-top: 15px; 
+}
+.buy {
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(60, 60, 249);
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    box-shadow: 1px 1px 10px 2px rgb(60, 60, 249);
+    transition: background-color 0.2s, color 0.2s; 
+}
+.buy:hover {
+    color: rgb(60, 60, 249);
+    background-color: white;
+    border-style: solid;
+    box-shadow: 0px 0px 0px 0px rgb(60, 60, 249);
+}
+.buy :active {
+    opacity: 0.5;
+}
