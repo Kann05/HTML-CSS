@@ -1,0 +1,69 @@
+.textbox {
+    margin-bottom: 5px;
+}
+.searchbox {
+    border: none;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: 0px;
+}
+.center {
+    text-align: center;
+    margin-top: -63px;
+}
+.left {
+    text-align: left;
+}
+.bettertextbox {
+    margin-bottom: 5px;
+}
+.box {
+    border: none;
+    border-radius: 20px;
+    box-shadow: 1px 1px 3px 1px rgb(0, 0, 0.2);
+    font-size: 15px;
+    margin-top: 0px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    width: 300px;
+
+}
+
+.block {
+    margin-top: 100px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 1px 1px 3px 1px rgb(0, 0, 0.2);
+    padding-left: 15px;
+    width: 400px;
+    display: flex;
+}
+img {
+    border-radius: 100%;
+    width: 100px;
+    
+
+}
+.sup {
+    border: none;
+    padding-left: 15px;
+}
+.twitterButton {
+    color: white;
+    font-weight: bold;
+    background-color: rgb(29, 155, 240);
+    border-radius: 20px;
+    border: none;
+    height: 36px;
+    width: 105px;
+    margin-right: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.twitterButton:active {
+    opacity: 0.5;
+}
