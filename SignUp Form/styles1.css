@@ -1,0 +1,74 @@
+.login {
+    text-align: center;
+    display: block;
+    margin-top: 100px;
+}
+.name {
+    border: none;
+    border-color: rgba(22, 22, 35, 0.453);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    width: 125px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    vertical-align: middle;
+
+}
+.name1 {
+    display: inline-block;
+    border: none;
+    border-color: rgba(22, 22, 35, 0.453);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    width: 125px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.email1 {
+    display: inline-block;
+    border: none;
+    border-color: rgba(22, 22, 35, 0.453);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    width: 125px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 145px;
+}
+.joinButton {
+    background-color: rgb(55, 123, 201);
+    font-weight: bold;
+    color: white;
+    border-radius: 9px;
+    border-color: rgb(55, 123, 201);;
+    border-style: solid;
+    height: 40px;
+    width: 280px;
+    margin-top: 10px;
+    cursor: pointer;
+
+    transition: background-color 0.15s, color 0.15s; 
+}
+.joinButton:hover {
+    color: rgb(55, 123, 201);
+    background-color: white;
+}
+.joinButton:active {
+    opacity: 0.5;
+}
