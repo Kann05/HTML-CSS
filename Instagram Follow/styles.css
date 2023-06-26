@@ -1,0 +1,134 @@
+.profile1 {
+    display: box;
+    margin-left: 350px;
+    margin-top: 100px;
+    vertical-align: middle;
+}
+.cat {
+    border-radius: 200px;
+    width: 80px;
+}
+.name {
+    margin-top: -90px;
+    margin-left: 100px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 7px; 
+}
+.nickname {
+    margin-left: 100px;
+    color: gray;
+    margin-top: 0px;
+    margin-bottom: 7px;
+}
+.popular {
+    margin-left: 100px;
+    color: gray;
+    margin-top: 0px;
+    
+}
+.follow {
+    position: absolute;
+    margin-top: -70px;
+    margin-left: 250px
+}
+.follow {
+    color: white;
+    font-weight: bold;
+    background-color: #2660de;
+    border-radius: 7px;
+    border: none;
+    height: 36px;
+    width: 105px;
+    cursor: pointer;
+}
+
+.profile2 {
+    display: block;
+    margin-left: 350px;
+    margin-top: 70px;
+}
+.dog {
+    border-radius: 200px;
+    width: 80px;
+    margin-bottom: 20px;
+}
+.name1 {
+    margin-top: -90px;
+    margin-left: 100px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 7px; 
+}
+.nickname1 {
+    margin-left: 100px;
+    color: gray;
+    margin-top: 0px;
+    margin-bottom: 7px;
+}
+.popular1 {
+    margin-left: 100px;
+    color: gray;
+    margin-top: 0px;
+    
+}
+.follow1 {
+    position: absolute;
+    margin-top: -70px;
+    margin-left: 250px
+}
+.follow1 {
+    color: white;
+    font-weight: bold;
+    background-color: #2660de;
+    border-radius: 7px;
+    border: none;
+    height: 36px;
+    width: 105px;
+    cursor: pointer;
+}
+
+.profile3 {
+    display: block;
+    margin-left: 350px;
+    margin-top: 70px;
+}
+.hamster {
+    border-radius: 200px;
+    width: 80px;
+    margin-bottom: 20px;
+}
+.name2 {
+    margin-top: -90px;
+    margin-left: 100px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 7px; 
+}
+.nickname2 {
+    margin-left: 100px;
+    color: gray;
+    margin-top: 0px;
+    margin-bottom: 7px;
+}
+.popular2 {
+    margin-left: 100px;
+    color: gray;
+    margin-top: 0px;
+    
+}
+.follow2 {
+    position: absolute;
+    margin-top: -70px;
+    margin-left: 250px
+}
+.follow2 {
+    color: white;
+    font-weight: bold;
+    background-color: #2660de;
+    border-radius: 7px;
+    border: none;
+    height: 36px;
+    width: 105px;
+    cursor: pointer;
+}
