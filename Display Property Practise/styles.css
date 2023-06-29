@@ -1,0 +1,35 @@
+.text {
+    display: block;
+}
+.email {
+    display: block;
+    margin-top: 5px;
+}
+p {
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.button {
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+img {
+    width: 200px;
+    display: block;
+    margin-left: 30px;
+    margin-top: 0px;
+    
+}
+.box {
+    border: none;
+    border-radius: 20px;
+    box-shadow: 1px 1px 3px 1px rgb(0, 0, 0.2);
+    font-size: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    width: 300px;
+    margin-top: 0px;
+}
