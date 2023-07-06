@@ -1,0 +1,54 @@
+html, body {
+    overflow: hidden;
+}
+.topslide {
+    display: flex;
+    flex-direction: row;
+    vertical-align: middle;
+    border: none;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    box-shadow: black;
+}
+.font {
+    margin-left: -35px;
+    margin-top: 5px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.box {
+    border: none;
+    border-radius: 2px;
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.304);
+    font-size: 20px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 0px;
+    width: 450px;
+    height: 50px;
+    margin-top: 4px;
+    margin-left: 100px;
+    cursor: pointer;
+}
+.second {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    vertical-align: middle;
+    justify-content: center;
+
+}
+.third {
+    display: flex;
+    flex-direction: row;
+    vertical-align: middle;
+    flex: 2;
+    justify-content: center;
+}
